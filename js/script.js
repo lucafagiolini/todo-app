@@ -11,9 +11,7 @@ createApp({
 
 
             taskList: [
-                { title: "chiedere a daniele se devo riscrivere gli oggetti nell'array", done: true },
-                { title: "riscrivere gli  oggetti nell'array", done: true },
-                { title: "completare il corso di boolean", done: false }
+                { title: "write down your first task, 😎", done: true },
             ],
         }
     },
