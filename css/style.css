@@ -5,3 +5,18 @@
 * li {
     min-width: 500px;
 }
+
+
+/* <!-- ************ INPUT BAR ************ --> */
+#input-bar {
+    min-width: 400px;
+}
+
+.delete-task-icon i {
+    cursor: pointer;
+
+}
+
+.current-task {
+    cursor: pointer;
+}
